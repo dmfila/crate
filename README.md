@@ -117,7 +117,7 @@
 
 
 ## Hire me
-Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [centaous@protonmail.com](mailto:centaous@protonmail.com)
+Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [centaous@protonmail.com](mailto:asdever0012@gmail.com)
 
 
 ## License
