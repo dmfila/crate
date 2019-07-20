@@ -73,7 +73,7 @@
 - Prerequisites
   - Node
   - MySQL (or Postgres / Sqlite / MSSQL)
-- Clone repo `git clone git@github.com:sergdel/crate.git crate`
+- Clone repo `git clone git@github.com:dmfila/crate.git crate`
 - Switch to `code` directory `cd code`
 - Configurations
   - Modify `/api/src/config/database.json` for database credentials
@@ -94,9 +94,9 @@
 
 
 ## Resources and Inspirations
-- ✍️ Opinionated project architecture for Full-Stack JavaScript Applications - [GitHub](https://github.com/sergdel/fullstack-javascript-architecture)
-- 🌈 Simple Fullstack GraphQL Application - [GitHub](https://github.com/sergdel/fullstack-graphql)
-- 🌐 Universal react application with server side rendering - [GitHub](https://github.com/sergdel/universal-react)
+- ✍️ Opinionated project architecture for Full-Stack JavaScript Applications - [GitHub](https://github.com/dmfila/fullstack-javascript-architecture)
+- 🌈 Simple Fullstack GraphQL Application - [GitHub](https://github.com/dmfila/fullstack-graphql)
+- 🌐 Universal react application with server side rendering - [GitHub](https://github.com/dmfila/universal-react)
 - Container Components - [Medium Post](https://medium.com/@learnreact/container-components-c0e67432e005)
 - Zero to GraphQL in 30 Minutes - [YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY&list=PLkuiMQfg5DujhOSZ1A8kDl0hKV_ICTjp-)
 - Building a GraphQL Server [YouTube Playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
@@ -112,7 +112,7 @@
 
 
 ## Authors
-- Sergiu Delamarian - [GitHub](https://github.com/sergdel)
+- Sergiu Delamarian - [GitHub](https://github.com/dmfila)
 - [YOUR NAME HERE] - Feel free to contribute to the codebase by resolving any open issues, refactoring, adding new features, writing test cases or any other way to make the project better and helpful to the community. Feel free to fork and send pull requests.
 
 
@@ -121,6 +121,6 @@ Looking for a developer to build your next idea or need a developer to work remo
 
 
 ## License
-Copyright (c) 2018 Atul Yadav http://github.com/sergdel
+Copyright (c) 2018 Atul Yadav http://github.com/dmfila
 
 The MIT License (http://www.opensource.org/licenses/mit-license.php)
